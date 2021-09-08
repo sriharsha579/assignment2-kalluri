@@ -9,6 +9,8 @@
 
 ---
 
+Directions from Maryville to alaska 
+
  1. Book a flight ticket for flying
      * go on time to the airport
  2. Take a sleep for a long flight 
