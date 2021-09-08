@@ -11,6 +11,6 @@ I felt like, i am not having any interesting facts about me Many say that i am n
   ---
 
   ***Denali National Park***
-  ![Denali National Park](denali national park.jpeg)  
+  ![Denali National Park](alaska.jpeg) 
 
 
