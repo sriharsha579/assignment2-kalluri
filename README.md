@@ -17,4 +17,18 @@ Directions from Maryville to alaska
      * have a peaceful sleep for 10hrs
  3. Book a taxi in alaska  
      * 3.1 list out the places to visit with local map
-     * 3.2 And start exploring the alaska city  
+     * 3.2 And start exploring the alaska city 
+
+---
+
+List of items to be brought alaska for maximum enjoyment
+
+* Get some local guys over there
+* to build up some memories bring the items like 
+  * camera
+  * tripod
+  * go pro
+* places to be visited in alaska 
+   * Denali National park and reserve 
+   * Hubbard Glacier
+   * Kenai Fjords National park   
