@@ -31,4 +31,10 @@ List of items to be brought alaska for maximum enjoyment
 * places to be visited in alaska 
    * Denali National park and reserve 
    * Hubbard Glacier
-   * Kenai Fjords National park   
+   * Kenai Fjords National park
+
+   ---
+
+   ## You may know me here##
+
+   [Bio and image](aboutme.md)
