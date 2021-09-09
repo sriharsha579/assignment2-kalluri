@@ -38,4 +38,17 @@ List of items to be brought alaska for maximum enjoyment
    ## You may know me here ##
 
 
-   [Bio and image](aboutme.md)
+   [Bio and image](aboutme.md)  
+
+   ---
+
+   ### food i would recommend others ###
+
+   |  food  |   place  |  price   |
+   |--------|----------|----------|
+   |maharaja burger|Mc Donalds| $1.79|
+   |pagalial's pizza buffet|pagalial's pizza| $13.69|
+   |cheese pizza|dominos| $4.23|
+   |12 pc wings|KFC|$16.72|
+
+   ---
