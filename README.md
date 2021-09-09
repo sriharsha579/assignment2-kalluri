@@ -71,9 +71,9 @@ List of items to be brought alaska for maximum enjoyment
     ```
 
     const double EPS = 1e-9;
-const int INF = 2; // it doesn't actually have to be infinity or a big number
+    const int INF = 2; // it doesn't actually have to be infinity or a big number
 
-int gauss (vector < vector<double> > a, vector<double> & ans) {
+    int gauss (vector < vector<double> > a, vector<double> & ans) {
     int n = (int) a.size();
     int m = (int) a[0].size() - 1;
 
@@ -114,7 +114,7 @@ int gauss (vector < vector<double> > a, vector<double> & ans) {
         if (where[i] == -1)
             return INF;
     return 1;
-}
+    }
 
 ```
 
