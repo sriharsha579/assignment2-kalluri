@@ -52,3 +52,10 @@ List of items to be brought alaska for maximum enjoyment
    |12 pc wings|KFC|$16.72|
 
    ---
+
+   ## Pithy Quotes ##
+    Once you replace **negative** thoughts with **positive** ones, you'll start having **positive** results. - *Willi Neilson*
+
+    Two things are **infinite**: the **universe** and human **stupidity**; and I'm not sure about the universe. - *Albert Einisten*
+
+    
